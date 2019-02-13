@@ -1,0 +1,29 @@
+footer{
+	text-align:center;
+	margin-top:6%;
+}
+
+h2{
+
+	text-align:center;
+	text-transform: uppercase;
+	font-family: impact;
+}
+
+p{
+	text-align: center;
+}
+
+.header{
+
+  padding: 30px;
+  font-family: impact;
+  text-align: center;
+  background: #1abc9c;
+  color: white;
+  font-size: 30px;
+}
+
+a:link {
+  color: red;
+}
